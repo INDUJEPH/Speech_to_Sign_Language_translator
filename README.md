@@ -93,32 +93,6 @@ The application supports a wide range of words and phrases, including:
 - Months of the year
 - And many more!
 
-## 🤝 Contributing
-
-Contributions are welcome! Please feel free to submit a Pull Request.
-
-1. Fork the repository
-2. Create your feature branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
-
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## 🙏 Acknowledgments
-
-- Google Speech Recognition API
-- TensorFlow and Keras communities
-- All contributors and users of this project
-
-## 📞 Contact
-
-Your Name - [@yourtwitter](https://twitter.com/yourtwitter) - email@example.com
-
-Project Link: [https://github.com/yourusername/speech-to-sign-language](https://github.com/yourusername/speech-to-sign-language)
-
 ---
 
 ⭐️ If you like this project, please give it a star on GitHub! 
